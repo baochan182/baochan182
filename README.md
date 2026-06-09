@@ -20,6 +20,3 @@ Currently working on C# WinForms applications, socket programming, and Cisco net
 
 ---
 
-### 📌 Featured Projects:
-
-[![Ticket Resell](https://github-readme-stats.vercel.app/api/pin/?username=baochan182&repo=TicketResell&theme=dark)](https://github.com/baochan182/TicketResell)
