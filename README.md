@@ -1,6 +1,7 @@
 ### 💫 About Me:
-
-Hi, I am Bao 
+Hi, I am Le Quoc Bao
+I'm a second-year computer science student at UTH. 
+Currently working on C# WinForms applications, socket programming, and Cisco networking topologies.
 ---
 
 ### 🌐 Socials:
@@ -15,3 +16,7 @@ Hi, I am Bao
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baochan182&repo=dev-builder)](https://github.com/baochan182)
+
+### 📌 Featured Projects:
+
+[![Simple Chat](https://github-readme-stats.vercel.app/api/pin/?username=baochan182&repo=Simple-Chat&theme=dark)](https://github.com/baochan182/Simple-Chat)
